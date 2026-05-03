@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ClienteAPI
+build_property.RootNamespace = ClienteAPI
+build_property.ProjectDir = /home/cristiansoto/LaboratorioSQL2/lab-2026-i-bdii-u1-02-cs2026086510-a11y/ServicioCliente/ClienteAPI/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/cristiansoto/LaboratorioSQL2/lab-2026-i-bdii-u1-02-cs2026086510-a11y/ServicioCliente/ClienteAPI
+build_property._RazorSourceGeneratorDebug = 
